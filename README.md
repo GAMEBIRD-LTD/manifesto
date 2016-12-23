@@ -1,0 +1,3 @@
+# Manifesto
+
+Display manifesto
